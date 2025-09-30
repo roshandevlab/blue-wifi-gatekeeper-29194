@@ -48,7 +48,7 @@ const Index = () => {
         <Card className="backdrop-blur-md border-router-border shadow-2xl" 
               style={{ backgroundColor: "var(--router-card)" }}>
           <CardHeader className="text-center pb-4 px-4 sm:px-6">
-            <CardTitle className="text-xl sm:text-2xl font-bold text-white flex items-center justify-center gap-2 leading-tight">
+            <CardTitle className="text-xl sm:text-2xl font-display font-bold text-white flex items-center justify-center gap-2 leading-tight">
               📶 Router Has Encountered an Issue
             </CardTitle>
             <p className="text-accent mt-2 text-sm sm:text-base">
